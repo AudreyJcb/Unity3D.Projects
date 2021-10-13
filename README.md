@@ -3,4 +3,4 @@ Here are the Unity3D apps I have developed, as I have been learning about : the 
 
 Under the following branches you will find my different apps :
 
-1. MyFirstUnity3DGame -> v.1 released on the 10th of October 2021
+1. MyFirstUnity3DGame -> v.1 released on the 12th of October 2021
